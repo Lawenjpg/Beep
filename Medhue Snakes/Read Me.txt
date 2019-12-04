@@ -1,0 +1,61 @@
+**Medhue Snakes for Unity3D**
+Included in this package are the Medhue Snake rigged model, 22 Blend shapes, 120+ skeletal animations, and prefabs for the Unity3D game engine. The snakes could be used as the player character, or for Non player characters. This package includes all the animations you could need for any snake. The blend shapes allow you to customize the snakes, or create your own new snake. This package also includes each type of snake with their own animations to fit the type. Just remember that each type of snake animations has their own skeletonal scaling, so the scaling of the bones with change the shape of the snake. The rattlesnake is the most obvious example of this, because the tail bones are scaled down to create the rattle.
+
+In Package:
+MedhueSnake.fbx (default model with animations)
+Anaconda (model with diffuse textures)
+Cobra (model with diffuse textures)
+Coral Snake (model with diffuse textures)
+King Snake (model with diffuse textures)
+Black Mamba (model with diffuse textures)
+Python (model with diffuse textures)
+Rattlesnake (model with diffuse textures)
+Viper Snake (model with diffuse textures)
+Snake Normal map texture
+18 Unity Materials
+120+ skeletal animations covering all snake types
+22 Blend shapes
+8 Animated Morphs(Blend shapes)
+8 AI snake prefabs
+8 Snake Player prefabs
+2 Stationary Snake prefabs
+18 Unity Animation Controllers
+2 Scripts
+5 Sounds
+
+Animation list for each snake type:
+dead
+Fall land
+hiss1
+idle1
+idle2
+jump
+run
+runturnL
+runturnR
+StrifeL
+StrifeR
+Strike1
+Strike2
+turnL
+turnR
+walk1
+walk2
+walk3
+walkturnL
+walkturnR
+
+
+Installation:
+This product is supplied in a Unitypackage, meaning you can import it directly into Unity.
+
+
+USAGE LIMITATIONS:
+All animations, presets, morphs, models, programs or files are available for personal and commercial use, upon purchase. You may not redistribute any of products sold on this site. Medhue Animations retains all redistributive copyrights. The purchaser may distribute freely any images, games or videos created using any of the products from this site. The purchaser may install the products or services on any device they are personally using.
+
+
+Medhue Animations
+Lead animator and copyright holder: Medhue (Robert Lopp)
+http://www.medhueanimations.com
+
+If you have any issue at all with this product, please contact Medhue (Robert) at omedhue@yahoo.com
